@@ -1,8 +1,4 @@
-// IDs: 207696287 - Shahar David
-// 209439702 - Roi Zur
-// 209439710 - Amit Zur
-
-
+//Shahar David
 #include <iostream>
 #include <vector>
 #include <cstring> // Include cstring for memset
