@@ -1,7 +1,3 @@
-// IDs: 207696287 - Shahar David
-// 209439702 - Roi Zur
-// 209439710 - Amit Zur
-
 
 #include <iostream>     // Input and output stream, provides functionality for basic console input and output operations.
 #include <fstream>      // File stream, used for file input and output operations.
